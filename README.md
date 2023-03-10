@@ -4,7 +4,7 @@ Table of Contents:
 </br>
 Project 1: Text to Audio 
 </br>
-Project 2:  
+Project 2: Audio to Text
 </br>
 Project 3:  
 </br>
