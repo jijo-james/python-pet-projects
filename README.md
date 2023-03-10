@@ -1,6 +1,14 @@
 Python Pet Projects This repository contains a collection of python pet projects that demonstrate various concepts and technologies using python. Each project is contained within its own subdirectory and includes a README file with a brief description and instructions on how to set up and run the project.
 
-Table of Contents Project 1: Text to Audio #Project 2:  #Project 3:  #Project 4: 
+Table of Contents: 
+</br>
+Project 1: Text to Audio 
+</br>
+Project 2: Audio to Text
+</br>
+Project 3:  
+</br>
+Project 4: 
 
 Technologies Used 
 
