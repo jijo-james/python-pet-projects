@@ -6,7 +6,7 @@ Project 1: Text to Audio
 </br>
 Project 2: Audio to Text
 </br>
-Project 3:  
+Project 3:  Google translate using googletrans
 </br>
 Project 4: 
 
